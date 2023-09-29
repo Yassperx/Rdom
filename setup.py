@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="Rdom", 
-    version="0.1", 
+    version="0.2", 
     author="Yassperx", 
     description="A collection of random projects in Python.",
     long_description=long_description,  
