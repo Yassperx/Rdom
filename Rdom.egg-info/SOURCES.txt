@@ -1,0 +1,8 @@
+README.md
+setup.py
+Rdom/__init__.py
+Rdom.egg-info/PKG-INFO
+Rdom.egg-info/SOURCES.txt
+Rdom.egg-info/dependency_links.txt
+Rdom.egg-info/requires.txt
+Rdom.egg-info/top_level.txt
